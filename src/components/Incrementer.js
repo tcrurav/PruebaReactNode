@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 function Incrementer(props) {
   const [times, setTimes] = useState(0);
