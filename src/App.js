@@ -1,10 +1,10 @@
-import Message from './components/Message';
+import ElielBike from './components/ElielBike';
 
 function App() {
   return (
     <div>
       <p>Hola soy un desarrollador muy optimista</p>
-      <Message />
+      <ElielBike />
     </div>
   );
 }
