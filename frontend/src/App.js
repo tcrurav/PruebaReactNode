@@ -1,10 +1,10 @@
 import Message from './components/Message';
+import CarlosSanchezBike from './components/CarlosSanchezBike';
 
 function App() {
   return (
     <div>
-      <p>Hola soy un desarrollador muy optimista</p>
-      <Message />
+      <CarlosSanchezBike/>
     </div>
   );
 }
